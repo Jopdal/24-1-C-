@@ -14,7 +14,7 @@ int main()
     combination(n,k);
 }
 
-int twoRaisedTo(int n) // 2page의 수식을 직역한 것 처럼 코딩을 한 것.
+int twoRaisedTo(int n) // 2page의 수식을 직역한 것 처럼 코딩을 한 것.w
 {
     if (n == 0) // 종단 조건
         return 1;
